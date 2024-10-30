@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Chandeesh
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-<img align="right" width="330" height="290" src="https://th.bing.com/th/id/OIP.Qx6GYph4OuL0f7QPfGDgKQHaHa?rs=1&pid=ImgDetMain">
+<img align="right" width="390" height="290" src="https://i.pinimg.com/originals/3d/1f/74/3d1f74eb3c30bc7b1ac4fa27014daa1c.jpg">
 - 🔭 Here's my [portfolio](https://channfolio.my.canva.site/)                                                 
 - 🌱 I’m currently learning Japanese.
 - 👯 I’m looking to collaborate on Data Science and Web Development.
